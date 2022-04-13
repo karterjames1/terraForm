@@ -1,0 +1,9 @@
+variable "aws_region" {}
+variable "tags" {}
+variable "availability_zone" {}
+variable "privateip" {0
+variable "app" {}
+variable "subnet" {}
+variable "sg_ids" {}
+variable "myami" {}
+variable "enable_api_termination" {}
